@@ -33,5 +33,5 @@ Olá! Sou um estudante de Estatística na FCT Unesp profundamente interessado no
 
 Sinta-se à vontade para entrar em contato comigo para discutir projetos, colaborações ou apenas para bater papo. 
 
-vitoroikawa1@gmail.com | https://www.linkedin.com/in/victoroikawa/| 
+vitoroikawa1@gmail.com | https://www.linkedin.com/in/victoroikawa | 
 
