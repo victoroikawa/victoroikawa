@@ -6,7 +6,7 @@
 
 ## Sobre Mim
 
-Olá! Sou estudante de Estatística na FCT Unesp e profundamente interessado nos tópicos de modelagem estatística, aprendizado de máquina e computação. Pra mim, dados são a chave para a compreensão do mundo. Eles são a matéria-prima da ciência, da tecnologia e da inovação.
+Olá! Sou estudante de Estatística na FCT Unesp e profundamente interessado nos tópicos de modelagem estatística, aprendizado de máquina e computação. Pra mim, dados são a chave para a compreensão das mais diversas coisas nesse mundo! 
 
 ## Experiência
 
