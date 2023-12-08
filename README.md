@@ -31,7 +31,7 @@ Eaí! Eu sou o Victor e essa aqui é a homepage do meu repositório de códigos.
 
 ## Contato
 
-Sinta-se à vontade para entrar em contato comigo para discutir projetos, colaborações ou apenas para bater papo. 
+Sinta-se à vontade para entrar em contato comigo para discutir projetos, colaborações ou quem sabe jogar uma partida de xadrez!
 
 vitoroikawa1@gmail.com | https://www.linkedin.com/in/victoroikawa | 
 
