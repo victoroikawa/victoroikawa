@@ -6,7 +6,7 @@
 
 ## Sobre Mim
 
-Olá! Sou estudante de Estatística na FCT Unesp e profundamente interessado nos tópicos de modelagem estatística, aprendizado de máquina e computação. Pra mim, dados são a chave para a compreensão das mais diversas coisas nesse mundo! 
+Eaí! Eu sou o Victor e essa aqui é a homepage do meu repositório de códigos. Aqui eu tento subir todo tipo de tema que eu estiver trabalhando, sinta-se a vontade para interagir ou complementar! Minhas áreas favoritas são os tópicos de análise de sobrevivência, inferência estatística e aprendizado de máquina.
 
 ## Experiência
 
